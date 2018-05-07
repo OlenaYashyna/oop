@@ -1,0 +1,9 @@
+.selected {
+	background-color: #777;
+}
+#btn-rem {
+	display: none;
+}
+#btn-inline {
+	display: inline;
+}
